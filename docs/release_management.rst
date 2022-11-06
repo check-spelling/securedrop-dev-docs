@@ -60,7 +60,7 @@ Pre-Release
    changelog.
 
    a. First collect a list of changes since the last release. For example, if the last release was
-      version 1.6.0, you can view changes in Github by running::
+      version 1.6.0, you can view changes in GitHub by running::
 
          https://github.com/freedomofpress/securedrop/compare/release/1.6.0...develop
 
