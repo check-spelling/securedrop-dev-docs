@@ -26,7 +26,7 @@ permissions to do so, you'll need to make sure your local Docker client has cred
 Updating the build container
 ----------------------------
 We know the build container needs to be updated when **test_ensure_no_updates_avail** fails during
-``make build-debs`` in the ``securedrop`` GitHub reprository root directory. This test fails if any
+``make build-debs`` in the ``securedrop`` GitHub repository root directory. This test fails if any
 of the dependencies required to build the debian packages have security updates. If you have access
 rights to push to quay.io, then you can build and push a new container to the Quay repository by
 following the steps below.
